@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AresGodXss
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning "ethical" hacking
+- 🌱 I’m currently learning "ethical" hacking, programming, and little bit of electrotechnics
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me email me here => aresgodxss/atSign\gmail/dot\com
 - :smiley_cat: Preffered OS: Windows(11), linux(kali, Ubuntu), never used MacOs but I am iPhone user :smile_cat: 
