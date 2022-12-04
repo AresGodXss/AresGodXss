@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ar3s-xss
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning "ethical" hacking, programming, and little bit of electrotechnics
+- 🌱hacking, programming, and little bit of electrotechnics
 - 💞️ I would like to collaborate.
 - 📫 How to reach me: email me here => aresgodxss/atSign\gmail/dot\com
 - :smiley_cat: Preffered OS: Windows(10, 10 Pro, 11), linux(kali, Ubuntu), never used MacOs but I am iPhone user :smile_cat: 
