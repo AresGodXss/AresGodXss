@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ar3s-xss
-- 👀 I’m interested in technology
 - 🌱hacking, programming, and little bit of electrotechnics
 <!---
 AresGodXss/AresGodXss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
